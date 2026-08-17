@@ -1,0 +1,6 @@
+{
+  "name": "DAVE PREDICT",
+  "description": "High-accuracy predictive analysis and strategy suite for mini-games like Rocket Queen 1WIN, Apple of Fortune, Lucky Jet, Aviator, Mines, Crash Gold, and Thimbles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
